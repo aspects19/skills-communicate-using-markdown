@@ -1,6 +1,6 @@
 # Learning on the use of markdown files.
 ## 1. Using headers.
-- This section taught me on how to use `#` to make different heading above for example `#` is for H1 and `##` for H2
+- This section shows how to use `#` to make different heading above for example `#` is for H1 and `##` for H2
 
 ## 2. Displaing images
 - ` [<image placeholder name>] (<image link>)` can be used to display images as shown below.
